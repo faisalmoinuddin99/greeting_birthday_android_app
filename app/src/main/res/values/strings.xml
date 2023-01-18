@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BirthdayGreetingApp</string>
+    <string name="happy_birthday_text">Happy Birthday</string>
+    <string name="happy_birthday_from">-from Messi!</string>
+</resources>
